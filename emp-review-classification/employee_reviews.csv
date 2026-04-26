@@ -1,0 +1,1001 @@
+id,review,sentiment,topic
+1,"From my team’s perspective, Salary is below market expectations.",Negative,Salary
+2,"In my experience, Modern technology stack and useful tools.",Positive,Technology
+3,"In my experience, Legacy systems make daily work harder.",Negative,Technology
+4,"Overall, Salary is below market expectations.",Negative,Salary
+5,"Overall, Strong learning opportunities and skill growth.",Positive,Growth
+6,"In some cases, Legacy systems make daily work harder.",Negative,Technology
+7,"From my team’s perspective, Clear opportunities to learn and advance.",Positive,Growth
+8,"For the most part, Salary is average for the industry.",Neutral,Salary
+9,"From my team’s perspective, Management communication is weak.",Negative,Management
+10,"In my experience, Management is approachable and supportive.",Positive,Management
+11,"Compared with peers, Great work culture with supportive teammates.",Positive,Culture
+12,"From my team’s perspective, Learning is available, but mostly self-driven.",Neutral,Growth
+13,"In my experience, Work-life balance is fine most weeks.",Neutral,Culture
+14,"In my experience, Compensation is acceptable for the role.",Neutral,Salary
+15,"Compared with peers, Promotion paths are not well defined.",Negative,Growth
+16,"Overall, Work culture feels stressful and inconsistent.",Negative,Culture
+17,"In my experience, Perks are minimal compared to other companies.",Negative,Perks
+18,"In some cases, Work culture varies by team.",Neutral,Culture
+19,"For the most part, Management is approachable and supportive.",Positive,Management
+20,"From my team’s perspective, Strong learning opportunities and skill growth.",Positive,Growth
+21,"For the most part, Work culture varies by team.",Neutral,Culture
+22,"For the most part, Career growth is limited and unclear.",Negative,Growth
+23,"At times, Perks are minimal compared to other companies.",Negative,Perks
+24,"At times, Salary is below market expectations.",Negative,Salary
+25,"In some cases, Management style differs across departments.",Neutral,Management
+26,"Compared with peers, Strong learning opportunities and skill growth.",Positive,Growth
+27,"In some cases, Excellent collaboration across teams.",Positive,Culture
+28,"For the most part, Work-life balance is fine most weeks.",Neutral,Culture
+29,"From my team’s perspective, Strong learning opportunities and skill growth.",Positive,Growth
+30,"In some cases, Compensation is acceptable for the role.",Neutral,Salary
+31,"Generally speaking, Modern technology stack and useful tools.",Positive,Technology
+32,"In my experience, Salary is competitive and fair.",Positive,Salary
+33,"In some cases, Modern technology stack and useful tools.",Positive,Technology
+34,"In some cases, Raises are small and infrequent.",Negative,Salary
+35,"From my team’s perspective, Team morale is low in some departments.",Negative,Culture
+36,"In my experience, Salary is average for the industry.",Neutral,Salary
+37,"From my team’s perspective, Legacy systems make daily work harder.",Negative,Technology
+38,"In my experience, Management style differs across departments.",Neutral,Management
+39,"Generally speaking, Modern technology stack and useful tools.",Positive,Technology
+40,"For the most part, Helpful perks like flexible hours and leave.",Positive,Perks
+41,"From my team’s perspective, Work culture feels stressful and inconsistent.",Negative,Culture
+42,"At times, Some tools are modern while others are legacy.",Neutral,Technology
+43,"Overall, Modern technology stack and useful tools.",Positive,Technology
+44,"Overall, Team morale is low in some departments.",Negative,Culture
+45,"From my team’s perspective, Management is approachable and supportive.",Positive,Management
+46,"In my experience, Strong learning opportunities and skill growth.",Positive,Growth
+47,"In my experience, Excellent collaboration across teams.",Positive,Culture
+48,"For the most part, Some tools are modern while others are legacy.",Neutral,Technology
+49,"For the most part, Excellent collaboration across teams.",Positive,Culture
+50,"In some cases, Clear opportunities to learn and advance.",Positive,Growth
+51,"At times, Some tools are modern while others are legacy.",Neutral,Technology
+52,"Compared with peers, Compensation is acceptable for the role.",Neutral,Salary
+53,"Generally speaking, Legacy systems make daily work harder.",Negative,Technology
+54,"In my experience, Strong learning opportunities and skill growth.",Positive,Growth
+55,"At times, Clear opportunities to learn and advance.",Positive,Growth
+56,"In my experience, Salary is below market expectations.",Negative,Salary
+57,"At times, Salary is average for the industry.",Neutral,Salary
+58,"Compared with peers, Salary is competitive and fair.",Positive,Salary
+59,"From my team’s perspective, Strong learning opportunities and skill growth.",Positive,Growth
+60,"For the most part, Career growth is limited and unclear.",Negative,Growth
+61,"Generally speaking, Learning is available, but mostly self-driven.",Neutral,Growth
+62,"In some cases, Excellent collaboration across teams.",Positive,Culture
+63,"In some cases, Great work culture with supportive teammates.",Positive,Culture
+64,"Generally speaking, Good performance bonuses and benefits.",Positive,Salary
+65,"In my experience, Salary is average for the industry.",Neutral,Salary
+66,"In my experience, Management is approachable and supportive.",Positive,Management
+67,"Generally speaking, Strong learning opportunities and skill growth.",Positive,Growth
+68,"From my team’s perspective, Modern technology stack and useful tools.",Positive,Technology
+69,"Generally speaking, Work culture feels stressful and inconsistent.",Negative,Culture
+70,"In my experience, Some tools are modern while others are legacy.",Neutral,Technology
+71,"Overall, Projects use modern cloud and automation tools.",Positive,Technology
+72,"For the most part, Growth opportunities depend on the project.",Neutral,Growth
+73,"At times, Team morale is low in some departments.",Negative,Culture
+74,"For the most part, Salary is average for the industry.",Neutral,Salary
+75,"From my team’s perspective, Good performance bonuses and benefits.",Positive,Salary
+76,"From my team’s perspective, Work-life balance is fine most weeks.",Neutral,Culture
+77,"Generally speaking, Legacy systems make daily work harder.",Negative,Technology
+78,"At times, Helpful perks like flexible hours and leave.",Positive,Perks
+79,"Overall, Learning is available, but mostly self-driven.",Neutral,Growth
+80,"Overall, Salary is average for the industry.",Neutral,Salary
+81,"For the most part, Legacy systems make daily work harder.",Negative,Technology
+82,"In my experience, Projects use modern cloud and automation tools.",Positive,Technology
+83,"In my experience, Work culture varies by team.",Neutral,Culture
+84,"In some cases, Career growth is limited and unclear.",Negative,Growth
+85,"At times, Clear opportunities to learn and advance.",Positive,Growth
+86,"In my experience, Salary is below market expectations.",Negative,Salary
+87,"Compared with peers, Promotion paths are not well defined.",Negative,Growth
+88,"Compared with peers, Growth opportunities depend on the project.",Neutral,Growth
+89,"For the most part, Good performance bonuses and benefits.",Positive,Salary
+90,"Generally speaking, Perks are minimal compared to other companies.",Negative,Perks
+91,"Overall, Great work culture with supportive teammates.",Positive,Culture
+92,"In my experience, Promotion paths are not well defined.",Negative,Growth
+93,"From my team’s perspective, Strong learning opportunities and skill growth.",Positive,Growth
+94,"In my experience, Management is approachable and supportive.",Positive,Management
+95,"From my team’s perspective, Management style differs across departments.",Neutral,Management
+96,"From my team’s perspective, Projects use modern cloud and automation tools.",Positive,Technology
+97,"Overall, Legacy systems make daily work harder.",Negative,Technology
+98,"From my team’s perspective, Legacy systems make daily work harder.",Negative,Technology
+99,"For the most part, Work culture varies by team.",Neutral,Culture
+100,"For the most part, Great work culture with supportive teammates.",Positive,Culture
+101,"At times, Clear opportunities to learn and advance.",Positive,Growth
+102,"From my team’s perspective, Growth opportunities depend on the project.",Neutral,Growth
+103,"Overall, Perks are minimal compared to other companies.",Negative,Perks
+104,"From my team’s perspective, Good performance bonuses and benefits.",Positive,Salary
+105,"For the most part, Management is approachable and supportive.",Positive,Management
+106,"For the most part, Perks are minimal compared to other companies.",Negative,Perks
+107,"In some cases, Some tools are modern while others are legacy.",Neutral,Technology
+108,"In my experience, Work culture feels stressful and inconsistent.",Negative,Culture
+109,"Overall, The technology stack is a mix of old and new tools.",Neutral,Technology
+110,"For the most part, Learning is available, but mostly self-driven.",Neutral,Growth
+111,"From my team’s perspective, Salary is below market expectations.",Negative,Salary
+112,"Compared with peers, Salary is competitive and fair.",Positive,Salary
+113,"In my experience, Strong learning opportunities and skill growth.",Positive,Growth
+114,"In some cases, Projects use modern cloud and automation tools.",Positive,Technology
+115,"At times, The technology stack is a mix of old and new tools.",Neutral,Technology
+116,"In some cases, The technology stack is a mix of old and new tools.",Neutral,Technology
+117,"In some cases, Management is approachable and supportive.",Positive,Management
+118,"From my team’s perspective, Growth opportunities depend on the project.",Neutral,Growth
+119,"In some cases, Great work culture with supportive teammates.",Positive,Culture
+120,"At times, Work-life balance is fine most weeks.",Neutral,Culture
+121,"Compared with peers, Excellent collaboration across teams.",Positive,Culture
+122,"At times, Strong learning opportunities and skill growth.",Positive,Growth
+123,"In some cases, Strong learning opportunities and skill growth.",Positive,Growth
+124,"From my team’s perspective, Great work culture with supportive teammates.",Positive,Culture
+125,"In some cases, Projects use modern cloud and automation tools.",Positive,Technology
+126,"Compared with peers, Legacy systems make daily work harder.",Negative,Technology
+127,"From my team’s perspective, Work culture varies by team.",Neutral,Culture
+128,"Overall, Helpful perks like flexible hours and leave.",Positive,Perks
+129,"Compared with peers, Good performance bonuses and benefits.",Positive,Salary
+130,"In some cases, Management style differs across departments.",Neutral,Management
+131,"In my experience, Legacy systems make daily work harder.",Negative,Technology
+132,"At times, Clear opportunities to learn and advance.",Positive,Growth
+133,"Overall, Good performance bonuses and benefits.",Positive,Salary
+134,"At times, Legacy systems make daily work harder.",Negative,Technology
+135,"Compared with peers, Great work culture with supportive teammates.",Positive,Culture
+136,"From my team’s perspective, Work culture feels stressful and inconsistent.",Negative,Culture
+137,"Compared with peers, Raises are small and infrequent.",Negative,Salary
+138,"For the most part, Perks are minimal compared to other companies.",Negative,Perks
+139,"For the most part, Good performance bonuses and benefits.",Positive,Salary
+140,"In some cases, Perks are minimal compared to other companies.",Negative,Perks
+141,"From my team’s perspective, Salary is below market expectations.",Negative,Salary
+142,"Compared with peers, Good performance bonuses and benefits.",Positive,Salary
+143,"At times, Team morale is low in some departments.",Negative,Culture
+144,"In my experience, The technology stack is outdated and slow.",Negative,Technology
+145,"Compared with peers, Clear opportunities to learn and advance.",Positive,Growth
+146,"From my team’s perspective, Strong learning opportunities and skill growth.",Positive,Growth
+147,"For the most part, Strong learning opportunities and skill growth.",Positive,Growth
+148,"Generally speaking, Strong learning opportunities and skill growth.",Positive,Growth
+149,"Generally speaking, Work culture feels stressful and inconsistent.",Negative,Culture
+150,"At times, Promotion paths are not well defined.",Negative,Growth
+151,"Generally speaking, Compensation is acceptable for the role.",Neutral,Salary
+152,"Overall, Modern technology stack and useful tools.",Positive,Technology
+153,"In some cases, Work culture varies by team.",Neutral,Culture
+154,"Generally speaking, Projects use modern cloud and automation tools.",Positive,Technology
+155,"In my experience, Strong learning opportunities and skill growth.",Positive,Growth
+156,"Compared with peers, Team morale is low in some departments.",Negative,Culture
+157,"In some cases, Work-life balance is fine most weeks.",Neutral,Culture
+158,"Generally speaking, Some tools are modern while others are legacy.",Neutral,Technology
+159,"Generally speaking, Work-life balance is fine most weeks.",Neutral,Culture
+160,"From my team’s perspective, Strong learning opportunities and skill growth.",Positive,Growth
+161,"Generally speaking, Some tools are modern while others are legacy.",Neutral,Technology
+162,"Generally speaking, Perks are minimal compared to other companies.",Negative,Perks
+163,"At times, Helpful perks like flexible hours and leave.",Positive,Perks
+164,"In my experience, Management is approachable and supportive.",Positive,Management
+165,"In some cases, Strong learning opportunities and skill growth.",Positive,Growth
+166,"In my experience, Career growth is limited and unclear.",Negative,Growth
+167,"Generally speaking, Management communication is weak.",Negative,Management
+168,"In some cases, Career growth is limited and unclear.",Negative,Growth
+169,"Overall, Clear opportunities to learn and advance.",Positive,Growth
+170,"In some cases, Learning is available, but mostly self-driven.",Neutral,Growth
+171,"From my team’s perspective, Management communication is weak.",Negative,Management
+172,"At times, Compensation is acceptable for the role.",Neutral,Salary
+173,"In some cases, Perks are minimal compared to other companies.",Negative,Perks
+174,"Compared with peers, Raises are small and infrequent.",Negative,Salary
+175,"For the most part, Raises are small and infrequent.",Negative,Salary
+176,"Overall, The technology stack is a mix of old and new tools.",Neutral,Technology
+177,"Overall, Learning is available, but mostly self-driven.",Neutral,Growth
+178,"For the most part, Good performance bonuses and benefits.",Positive,Salary
+179,"Overall, The technology stack is a mix of old and new tools.",Neutral,Technology
+180,"At times, Management is approachable and supportive.",Positive,Management
+181,"In some cases, Management communication is weak.",Negative,Management
+182,"From my team’s perspective, Good performance bonuses and benefits.",Positive,Salary
+183,"Overall, Work-life balance is fine most weeks.",Neutral,Culture
+184,"Compared with peers, Salary is average for the industry.",Neutral,Salary
+185,"Overall, Great work culture with supportive teammates.",Positive,Culture
+186,"At times, Growth opportunities depend on the project.",Neutral,Growth
+187,"For the most part, Learning is available, but mostly self-driven.",Neutral,Growth
+188,"In my experience, Excellent collaboration across teams.",Positive,Culture
+189,"Generally speaking, Career growth is limited and unclear.",Negative,Growth
+190,"For the most part, Management communication is weak.",Negative,Management
+191,"For the most part, Work culture feels stressful and inconsistent.",Negative,Culture
+192,"Overall, Work culture varies by team.",Neutral,Culture
+193,"In some cases, Learning is available, but mostly self-driven.",Neutral,Growth
+194,"In my experience, Strong learning opportunities and skill growth.",Positive,Growth
+195,"In my experience, Career growth is limited and unclear.",Negative,Growth
+196,"In my experience, Perks are minimal compared to other companies.",Negative,Perks
+197,"Overall, Learning is available, but mostly self-driven.",Neutral,Growth
+198,"Compared with peers, Good performance bonuses and benefits.",Positive,Salary
+199,"Overall, Management is approachable and supportive.",Positive,Management
+200,"In my experience, Work-life balance is fine most weeks.",Neutral,Culture
+201,"Generally speaking, Management communication is weak.",Negative,Management
+202,"For the most part, Compensation is acceptable for the role.",Neutral,Salary
+203,"Generally speaking, Perks are standard and adequate.",Neutral,Perks
+204,"From my team’s perspective, Promotion paths are not well defined.",Negative,Growth
+205,"In my experience, Strong learning opportunities and skill growth.",Positive,Growth
+206,"At times, Excellent collaboration across teams.",Positive,Culture
+207,"In some cases, Learning is available, but mostly self-driven.",Neutral,Growth
+208,"Compared with peers, Excellent collaboration across teams.",Positive,Culture
+209,"Compared with peers, Strong learning opportunities and skill growth.",Positive,Growth
+210,"From my team’s perspective, Management style differs across departments.",Neutral,Management
+211,"Overall, Perks are standard and adequate.",Neutral,Perks
+212,"In my experience, Career growth is limited and unclear.",Negative,Growth
+213,"Generally speaking, Good performance bonuses and benefits.",Positive,Salary
+214,"Generally speaking, Career growth is limited and unclear.",Negative,Growth
+215,"Generally speaking, Team morale is low in some departments.",Negative,Culture
+216,"From my team’s perspective, Work culture varies by team.",Neutral,Culture
+217,"From my team’s perspective, Strong learning opportunities and skill growth.",Positive,Growth
+218,"Generally speaking, Management communication is weak.",Negative,Management
+219,"In some cases, Management communication is weak.",Negative,Management
+220,"Compared with peers, Some tools are modern while others are legacy.",Neutral,Technology
+221,"From my team’s perspective, Excellent collaboration across teams.",Positive,Culture
+222,"In my experience, Strong learning opportunities and skill growth.",Positive,Growth
+223,"In my experience, Management style differs across departments.",Neutral,Management
+224,"At times, The technology stack is a mix of old and new tools.",Neutral,Technology
+225,"From my team’s perspective, Excellent collaboration across teams.",Positive,Culture
+226,"From my team’s perspective, Some tools are modern while others are legacy.",Neutral,Technology
+227,"From my team’s perspective, Growth opportunities depend on the project.",Neutral,Growth
+228,"From my team’s perspective, Modern technology stack and useful tools.",Positive,Technology
+229,"For the most part, Projects use modern cloud and automation tools.",Positive,Technology
+230,"From my team’s perspective, Salary is competitive and fair.",Positive,Salary
+231,"Generally speaking, The technology stack is outdated and slow.",Negative,Technology
+232,"From my team’s perspective, Salary is competitive and fair.",Positive,Salary
+233,"Compared with peers, Team morale is low in some departments.",Negative,Culture
+234,"From my team’s perspective, Salary is competitive and fair.",Positive,Salary
+235,"In my experience, Work-life balance is fine most weeks.",Neutral,Culture
+236,"Generally speaking, Compensation is acceptable for the role.",Neutral,Salary
+237,"For the most part, Salary is competitive and fair.",Positive,Salary
+238,"From my team’s perspective, Clear opportunities to learn and advance.",Positive,Growth
+239,"In my experience, Strong learning opportunities and skill growth.",Positive,Growth
+240,"At times, Raises are small and infrequent.",Negative,Salary
+241,"Generally speaking, Compensation is acceptable for the role.",Neutral,Salary
+242,"In some cases, Perks are standard and adequate.",Neutral,Perks
+243,"Overall, Clear opportunities to learn and advance.",Positive,Growth
+244,"At times, Work culture feels stressful and inconsistent.",Negative,Culture
+245,"In my experience, Perks are minimal compared to other companies.",Negative,Perks
+246,"In my experience, Modern technology stack and useful tools.",Positive,Technology
+247,"Generally speaking, Good performance bonuses and benefits.",Positive,Salary
+248,"From my team’s perspective, Team morale is low in some departments.",Negative,Culture
+249,"From my team’s perspective, Helpful perks like flexible hours and leave.",Positive,Perks
+250,"In my experience, Work-life balance is fine most weeks.",Neutral,Culture
+251,"At times, Perks are minimal compared to other companies.",Negative,Perks
+252,"At times, Legacy systems make daily work harder.",Negative,Technology
+253,"For the most part, Perks are minimal compared to other companies.",Negative,Perks
+254,"From my team’s perspective, Modern technology stack and useful tools.",Positive,Technology
+255,"From my team’s perspective, Promotion paths are not well defined.",Negative,Growth
+256,"From my team’s perspective, Team morale is low in some departments.",Negative,Culture
+257,"Generally speaking, Perks are minimal compared to other companies.",Negative,Perks
+258,"Overall, Promotion paths are not well defined.",Negative,Growth
+259,"From my team’s perspective, Management style differs across departments.",Neutral,Management
+260,"Overall, Strong learning opportunities and skill growth.",Positive,Growth
+261,"Overall, Perks are standard and adequate.",Neutral,Perks
+262,"Generally speaking, The technology stack is a mix of old and new tools.",Neutral,Technology
+263,"From my team’s perspective, Team morale is low in some departments.",Negative,Culture
+264,"In some cases, Clear opportunities to learn and advance.",Positive,Growth
+265,"In my experience, Team morale is low in some departments.",Negative,Culture
+266,"Compared with peers, Raises are small and infrequent.",Negative,Salary
+267,"For the most part, Great work culture with supportive teammates.",Positive,Culture
+268,"From my team’s perspective, Excellent collaboration across teams.",Positive,Culture
+269,"Overall, Raises are small and infrequent.",Negative,Salary
+270,"From my team’s perspective, Management communication is weak.",Negative,Management
+271,"Overall, Good performance bonuses and benefits.",Positive,Salary
+272,"Generally speaking, Legacy systems make daily work harder.",Negative,Technology
+273,"Compared with peers, Career growth is limited and unclear.",Negative,Growth
+274,"Generally speaking, Team morale is low in some departments.",Negative,Culture
+275,"From my team’s perspective, Growth opportunities depend on the project.",Neutral,Growth
+276,"Generally speaking, Perks are minimal compared to other companies.",Negative,Perks
+277,"In my experience, Work-life balance is fine most weeks.",Neutral,Culture
+278,"At times, Clear opportunities to learn and advance.",Positive,Growth
+279,"Overall, Perks are standard and adequate.",Neutral,Perks
+280,"At times, Work culture feels stressful and inconsistent.",Negative,Culture
+281,"Generally speaking, Work culture varies by team.",Neutral,Culture
+282,"Generally speaking, The technology stack is a mix of old and new tools.",Neutral,Technology
+283,"From my team’s perspective, Perks are standard and adequate.",Neutral,Perks
+284,"Generally speaking, Team morale is low in some departments.",Negative,Culture
+285,"For the most part, Projects use modern cloud and automation tools.",Positive,Technology
+286,"For the most part, Clear opportunities to learn and advance.",Positive,Growth
+287,"In some cases, Perks are standard and adequate.",Neutral,Perks
+288,"From my team’s perspective, Projects use modern cloud and automation tools.",Positive,Technology
+289,"From my team’s perspective, Perks are standard and adequate.",Neutral,Perks
+290,"Generally speaking, Learning is available, but mostly self-driven.",Neutral,Growth
+291,"Generally speaking, Work-life balance is fine most weeks.",Neutral,Culture
+292,"In some cases, Projects use modern cloud and automation tools.",Positive,Technology
+293,"At times, Management communication is weak.",Negative,Management
+294,"In some cases, Growth opportunities depend on the project.",Neutral,Growth
+295,"Overall, Good performance bonuses and benefits.",Positive,Salary
+296,"In some cases, Excellent collaboration across teams.",Positive,Culture
+297,"Generally speaking, Modern technology stack and useful tools.",Positive,Technology
+298,"Compared with peers, The technology stack is a mix of old and new tools.",Neutral,Technology
+299,"In my experience, Work-life balance is fine most weeks.",Neutral,Culture
+300,"Overall, Team morale is low in some departments.",Negative,Culture
+301,"For the most part, Compensation is acceptable for the role.",Neutral,Salary
+302,"Compared with peers, Helpful perks like flexible hours and leave.",Positive,Perks
+303,"In my experience, Raises are small and infrequent.",Negative,Salary
+304,"In some cases, Some tools are modern while others are legacy.",Neutral,Technology
+305,"Overall, Work-life balance is fine most weeks.",Neutral,Culture
+306,"From my team’s perspective, Career growth is limited and unclear.",Negative,Growth
+307,"In some cases, Work culture varies by team.",Neutral,Culture
+308,"Generally speaking, Work culture varies by team.",Neutral,Culture
+309,"Overall, Helpful perks like flexible hours and leave.",Positive,Perks
+310,"From my team’s perspective, Salary is competitive and fair.",Positive,Salary
+311,"For the most part, Good performance bonuses and benefits.",Positive,Salary
+312,"For the most part, Good performance bonuses and benefits.",Positive,Salary
+313,"In some cases, Great work culture with supportive teammates.",Positive,Culture
+314,"Generally speaking, Career growth is limited and unclear.",Negative,Growth
+315,"At times, The technology stack is a mix of old and new tools.",Neutral,Technology
+316,"Generally speaking, Perks are minimal compared to other companies.",Negative,Perks
+317,"Generally speaking, Salary is competitive and fair.",Positive,Salary
+318,"For the most part, Some tools are modern while others are legacy.",Neutral,Technology
+319,"From my team’s perspective, Management is approachable and supportive.",Positive,Management
+320,"From my team’s perspective, Raises are small and infrequent.",Negative,Salary
+321,"At times, Perks are minimal compared to other companies.",Negative,Perks
+322,"In my experience, Work-life balance is fine most weeks.",Neutral,Culture
+323,"Compared with peers, Clear opportunities to learn and advance.",Positive,Growth
+324,"Overall, Perks are minimal compared to other companies.",Negative,Perks
+325,"From my team’s perspective, Compensation is acceptable for the role.",Neutral,Salary
+326,"Generally speaking, Salary is competitive and fair.",Positive,Salary
+327,"At times, Perks are standard and adequate.",Neutral,Perks
+328,"At times, Management communication is weak.",Negative,Management
+329,"From my team’s perspective, Promotion paths are not well defined.",Negative,Growth
+330,"In my experience, The technology stack is outdated and slow.",Negative,Technology
+331,"From my team’s perspective, Salary is average for the industry.",Neutral,Salary
+332,"Compared with peers, Salary is average for the industry.",Neutral,Salary
+333,"From my team’s perspective, Work culture varies by team.",Neutral,Culture
+334,"For the most part, Good performance bonuses and benefits.",Positive,Salary
+335,"Compared with peers, Projects use modern cloud and automation tools.",Positive,Technology
+336,"For the most part, Perks are minimal compared to other companies.",Negative,Perks
+337,"From my team’s perspective, Excellent collaboration across teams.",Positive,Culture
+338,"In my experience, Management style differs across departments.",Neutral,Management
+339,"For the most part, Work culture feels stressful and inconsistent.",Negative,Culture
+340,"In some cases, Growth opportunities depend on the project.",Neutral,Growth
+341,"Compared with peers, Some tools are modern while others are legacy.",Neutral,Technology
+342,"Overall, Good performance bonuses and benefits.",Positive,Salary
+343,"Generally speaking, Great work culture with supportive teammates.",Positive,Culture
+344,"In some cases, Helpful perks like flexible hours and leave.",Positive,Perks
+345,"In my experience, Management style differs across departments.",Neutral,Management
+346,"Overall, Team morale is low in some departments.",Negative,Culture
+347,"Compared with peers, Legacy systems make daily work harder.",Negative,Technology
+348,"In my experience, Growth opportunities depend on the project.",Neutral,Growth
+349,"From my team’s perspective, Team morale is low in some departments.",Negative,Culture
+350,"For the most part, Work culture feels stressful and inconsistent.",Negative,Culture
+351,"From my team’s perspective, Salary is competitive and fair.",Positive,Salary
+352,"In my experience, Work culture varies by team.",Neutral,Culture
+353,"For the most part, Projects use modern cloud and automation tools.",Positive,Technology
+354,"In some cases, Management is approachable and supportive.",Positive,Management
+355,"In some cases, The technology stack is outdated and slow.",Negative,Technology
+356,"In some cases, Team morale is low in some departments.",Negative,Culture
+357,"Overall, Perks are standard and adequate.",Neutral,Perks
+358,"Generally speaking, Career growth is limited and unclear.",Negative,Growth
+359,"Compared with peers, Career growth is limited and unclear.",Negative,Growth
+360,"Compared with peers, Management is approachable and supportive.",Positive,Management
+361,"At times, Helpful perks like flexible hours and leave.",Positive,Perks
+362,"In my experience, Work-life balance is fine most weeks.",Neutral,Culture
+363,"Overall, Promotion paths are not well defined.",Negative,Growth
+364,"At times, Management is approachable and supportive.",Positive,Management
+365,"At times, Learning is available, but mostly self-driven.",Neutral,Growth
+366,"At times, Projects use modern cloud and automation tools.",Positive,Technology
+367,"Compared with peers, Career growth is limited and unclear.",Negative,Growth
+368,"Overall, Learning is available, but mostly self-driven.",Neutral,Growth
+369,"For the most part, Modern technology stack and useful tools.",Positive,Technology
+370,"In my experience, The technology stack is outdated and slow.",Negative,Technology
+371,"For the most part, Salary is below market expectations.",Negative,Salary
+372,"Compared with peers, Strong learning opportunities and skill growth.",Positive,Growth
+373,"Overall, Helpful perks like flexible hours and leave.",Positive,Perks
+374,"In my experience, Good performance bonuses and benefits.",Positive,Salary
+375,"Generally speaking, Work-life balance is fine most weeks.",Neutral,Culture
+376,"In my experience, Some tools are modern while others are legacy.",Neutral,Technology
+377,"Overall, Career growth is limited and unclear.",Negative,Growth
+378,"From my team’s perspective, Some tools are modern while others are legacy.",Neutral,Technology
+379,"Overall, Salary is below market expectations.",Negative,Salary
+380,"In some cases, Compensation is acceptable for the role.",Neutral,Salary
+381,"Generally speaking, Team morale is low in some departments.",Negative,Culture
+382,"Compared with peers, Great work culture with supportive teammates.",Positive,Culture
+383,"For the most part, Work culture feels stressful and inconsistent.",Negative,Culture
+384,"Compared with peers, Clear opportunities to learn and advance.",Positive,Growth
+385,"From my team’s perspective, Clear opportunities to learn and advance.",Positive,Growth
+386,"In some cases, Promotion paths are not well defined.",Negative,Growth
+387,"At times, Great work culture with supportive teammates.",Positive,Culture
+388,"In some cases, Career growth is limited and unclear.",Negative,Growth
+389,"In some cases, Excellent collaboration across teams.",Positive,Culture
+390,"Compared with peers, Work culture feels stressful and inconsistent.",Negative,Culture
+391,"Compared with peers, Perks are minimal compared to other companies.",Negative,Perks
+392,"In my experience, Work-life balance is fine most weeks.",Neutral,Culture
+393,"In my experience, Great work culture with supportive teammates.",Positive,Culture
+394,"For the most part, Management communication is weak.",Negative,Management
+395,"Compared with peers, Promotion paths are not well defined.",Negative,Growth
+396,"Compared with peers, Raises are small and infrequent.",Negative,Salary
+397,"Overall, Compensation is acceptable for the role.",Neutral,Salary
+398,"From my team’s perspective, Learning is available, but mostly self-driven.",Neutral,Growth
+399,"At times, Clear opportunities to learn and advance.",Positive,Growth
+400,"At times, Excellent collaboration across teams.",Positive,Culture
+401,"Compared with peers, Management style differs across departments.",Neutral,Management
+402,"At times, Helpful perks like flexible hours and leave.",Positive,Perks
+403,"Overall, Some tools are modern while others are legacy.",Neutral,Technology
+404,"Overall, Perks are minimal compared to other companies.",Negative,Perks
+405,"Compared with peers, Helpful perks like flexible hours and leave.",Positive,Perks
+406,"For the most part, Modern technology stack and useful tools.",Positive,Technology
+407,"In my experience, Raises are small and infrequent.",Negative,Salary
+408,"In my experience, Salary is competitive and fair.",Positive,Salary
+409,"In some cases, Growth opportunities depend on the project.",Neutral,Growth
+410,"For the most part, Management communication is weak.",Negative,Management
+411,"In my experience, Management is approachable and supportive.",Positive,Management
+412,"For the most part, The technology stack is a mix of old and new tools.",Neutral,Technology
+413,"In my experience, Salary is average for the industry.",Neutral,Salary
+414,"Generally speaking, Good performance bonuses and benefits.",Positive,Salary
+415,"From my team’s perspective, Raises are small and infrequent.",Negative,Salary
+416,"In my experience, Projects use modern cloud and automation tools.",Positive,Technology
+417,"From my team’s perspective, Great work culture with supportive teammates.",Positive,Culture
+418,"Generally speaking, Promotion paths are not well defined.",Negative,Growth
+419,"Overall, Perks are minimal compared to other companies.",Negative,Perks
+420,"Overall, Clear opportunities to learn and advance.",Positive,Growth
+421,"At times, Helpful perks like flexible hours and leave.",Positive,Perks
+422,"From my team’s perspective, Perks are standard and adequate.",Neutral,Perks
+423,"Generally speaking, Salary is competitive and fair.",Positive,Salary
+424,"For the most part, The technology stack is a mix of old and new tools.",Neutral,Technology
+425,"Compared with peers, Strong learning opportunities and skill growth.",Positive,Growth
+426,"In some cases, Salary is competitive and fair.",Positive,Salary
+427,"Compared with peers, Great work culture with supportive teammates.",Positive,Culture
+428,"In some cases, Promotion paths are not well defined.",Negative,Growth
+429,"From my team’s perspective, Compensation is acceptable for the role.",Neutral,Salary
+430,"Compared with peers, Salary is competitive and fair.",Positive,Salary
+431,"Generally speaking, Clear opportunities to learn and advance.",Positive,Growth
+432,"In my experience, Management style differs across departments.",Neutral,Management
+433,"At times, Work culture feels stressful and inconsistent.",Negative,Culture
+434,"In my experience, Raises are small and infrequent.",Negative,Salary
+435,"Compared with peers, Helpful perks like flexible hours and leave.",Positive,Perks
+436,"In my experience, Modern technology stack and useful tools.",Positive,Technology
+437,"At times, Work culture feels stressful and inconsistent.",Negative,Culture
+438,"Compared with peers, Management style differs across departments.",Neutral,Management
+439,"At times, The technology stack is a mix of old and new tools.",Neutral,Technology
+440,"At times, Helpful perks like flexible hours and leave.",Positive,Perks
+441,"In my experience, Modern technology stack and useful tools.",Positive,Technology
+442,"Generally speaking, Excellent collaboration across teams.",Positive,Culture
+443,"Generally speaking, Learning is available, but mostly self-driven.",Neutral,Growth
+444,"Compared with peers, Promotion paths are not well defined.",Negative,Growth
+445,"For the most part, Management style differs across departments.",Neutral,Management
+446,"Generally speaking, Team morale is low in some departments.",Negative,Culture
+447,"Overall, Perks are minimal compared to other companies.",Negative,Perks
+448,"From my team’s perspective, Great work culture with supportive teammates.",Positive,Culture
+449,"Overall, Salary is below market expectations.",Negative,Salary
+450,"In my experience, Helpful perks like flexible hours and leave.",Positive,Perks
+451,"In some cases, Work culture feels stressful and inconsistent.",Negative,Culture
+452,"Overall, Legacy systems make daily work harder.",Negative,Technology
+453,"At times, Promotion paths are not well defined.",Negative,Growth
+454,"For the most part, Excellent collaboration across teams.",Positive,Culture
+455,"In my experience, Work-life balance is fine most weeks.",Neutral,Culture
+456,"In my experience, Management style differs across departments.",Neutral,Management
+457,"Overall, The technology stack is outdated and slow.",Negative,Technology
+458,"Generally speaking, Excellent collaboration across teams.",Positive,Culture
+459,"For the most part, Promotion paths are not well defined.",Negative,Growth
+460,"In some cases, Helpful perks like flexible hours and leave.",Positive,Perks
+461,"Overall, Management communication is weak.",Negative,Management
+462,"In my experience, Management style differs across departments.",Neutral,Management
+463,"In some cases, Projects use modern cloud and automation tools.",Positive,Technology
+464,"For the most part, Clear opportunities to learn and advance.",Positive,Growth
+465,"For the most part, Clear opportunities to learn and advance.",Positive,Growth
+466,"In some cases, Perks are standard and adequate.",Neutral,Perks
+467,"From my team’s perspective, Great work culture with supportive teammates.",Positive,Culture
+468,"For the most part, Management communication is weak.",Negative,Management
+469,"In my experience, Legacy systems make daily work harder.",Negative,Technology
+470,"Compared with peers, Raises are small and infrequent.",Negative,Salary
+471,"For the most part, Helpful perks like flexible hours and leave.",Positive,Perks
+472,"Generally speaking, Management style differs across departments.",Neutral,Management
+473,"For the most part, Modern technology stack and useful tools.",Positive,Technology
+474,"Overall, Great work culture with supportive teammates.",Positive,Culture
+475,"For the most part, Promotion paths are not well defined.",Negative,Growth
+476,"For the most part, The technology stack is outdated and slow.",Negative,Technology
+477,"For the most part, Clear opportunities to learn and advance.",Positive,Growth
+478,"In some cases, Salary is average for the industry.",Neutral,Salary
+479,"Generally speaking, Strong learning opportunities and skill growth.",Positive,Growth
+480,"At times, Team morale is low in some departments.",Negative,Culture
+481,"Generally speaking, Perks are minimal compared to other companies.",Negative,Perks
+482,"Compared with peers, Growth opportunities depend on the project.",Neutral,Growth
+483,"Generally speaking, Promotion paths are not well defined.",Negative,Growth
+484,"In some cases, Perks are minimal compared to other companies.",Negative,Perks
+485,"For the most part, Raises are small and infrequent.",Negative,Salary
+486,"For the most part, Learning is available, but mostly self-driven.",Neutral,Growth
+487,"Generally speaking, Salary is average for the industry.",Neutral,Salary
+488,"In my experience, Some tools are modern while others are legacy.",Neutral,Technology
+489,"In my experience, Some tools are modern while others are legacy.",Neutral,Technology
+490,"From my team’s perspective, Modern technology stack and useful tools.",Positive,Technology
+491,"For the most part, Legacy systems make daily work harder.",Negative,Technology
+492,"At times, Work culture varies by team.",Neutral,Culture
+493,"Overall, Management style differs across departments.",Neutral,Management
+494,"Compared with peers, Raises are small and infrequent.",Negative,Salary
+495,"Compared with peers, Great work culture with supportive teammates.",Positive,Culture
+496,"In my experience, Management is approachable and supportive.",Positive,Management
+497,"For the most part, Management style differs across departments.",Neutral,Management
+498,"Generally speaking, Helpful perks like flexible hours and leave.",Positive,Perks
+499,"Generally speaking, The technology stack is outdated and slow.",Negative,Technology
+500,"In my experience, Salary is below market expectations.",Negative,Salary
+501,"For the most part, Strong learning opportunities and skill growth.",Positive,Growth
+502,"In some cases, Promotion paths are not well defined.",Negative,Growth
+503,"At times, Helpful perks like flexible hours and leave.",Positive,Perks
+504,"At times, Salary is competitive and fair.",Positive,Salary
+505,"Generally speaking, Promotion paths are not well defined.",Negative,Growth
+506,"Overall, Excellent collaboration across teams.",Positive,Culture
+507,"At times, Promotion paths are not well defined.",Negative,Growth
+508,"In some cases, Perks are standard and adequate.",Neutral,Perks
+509,"At times, Management is approachable and supportive.",Positive,Management
+510,"In my experience, The technology stack is outdated and slow.",Negative,Technology
+511,"In my experience, Management communication is weak.",Negative,Management
+512,"Overall, Some tools are modern while others are legacy.",Neutral,Technology
+513,"Overall, Excellent collaboration across teams.",Positive,Culture
+514,"From my team’s perspective, Management communication is weak.",Negative,Management
+515,"In my experience, Management style differs across departments.",Neutral,Management
+516,"Compared with peers, Great work culture with supportive teammates.",Positive,Culture
+517,"Compared with peers, Management is approachable and supportive.",Positive,Management
+518,"Generally speaking, The technology stack is a mix of old and new tools.",Neutral,Technology
+519,"For the most part, Work-life balance is fine most weeks.",Neutral,Culture
+520,"Generally speaking, Work culture varies by team.",Neutral,Culture
+521,"Overall, Strong learning opportunities and skill growth.",Positive,Growth
+522,"Compared with peers, Salary is average for the industry.",Neutral,Salary
+523,"In some cases, Some tools are modern while others are legacy.",Neutral,Technology
+524,"Generally speaking, Some tools are modern while others are legacy.",Neutral,Technology
+525,"From my team’s perspective, Strong learning opportunities and skill growth.",Positive,Growth
+526,"Compared with peers, Salary is competitive and fair.",Positive,Salary
+527,"In some cases, Management is approachable and supportive.",Positive,Management
+528,"In some cases, Work-life balance is fine most weeks.",Neutral,Culture
+529,"Generally speaking, Modern technology stack and useful tools.",Positive,Technology
+530,"From my team’s perspective, Management communication is weak.",Negative,Management
+531,"In my experience, Compensation is acceptable for the role.",Neutral,Salary
+532,"From my team’s perspective, The technology stack is outdated and slow.",Negative,Technology
+533,"Compared with peers, Great work culture with supportive teammates.",Positive,Culture
+534,"Generally speaking, Perks are minimal compared to other companies.",Negative,Perks
+535,"For the most part, Raises are small and infrequent.",Negative,Salary
+536,"Generally speaking, Management communication is weak.",Negative,Management
+537,"In some cases, Management is approachable and supportive.",Positive,Management
+538,"In my experience, Salary is competitive and fair.",Positive,Salary
+539,"Compared with peers, Raises are small and infrequent.",Negative,Salary
+540,"Overall, The technology stack is outdated and slow.",Negative,Technology
+541,"Generally speaking, Clear opportunities to learn and advance.",Positive,Growth
+542,"At times, Great work culture with supportive teammates.",Positive,Culture
+543,"Compared with peers, Management style differs across departments.",Neutral,Management
+544,"Overall, Clear opportunities to learn and advance.",Positive,Growth
+545,"Compared with peers, Team morale is low in some departments.",Negative,Culture
+546,"For the most part, Great work culture with supportive teammates.",Positive,Culture
+547,"Compared with peers, Raises are small and infrequent.",Negative,Salary
+548,"In my experience, Career growth is limited and unclear.",Negative,Growth
+549,"Generally speaking, Modern technology stack and useful tools.",Positive,Technology
+550,"In my experience, Legacy systems make daily work harder.",Negative,Technology
+551,"Generally speaking, Helpful perks like flexible hours and leave.",Positive,Perks
+552,"From my team’s perspective, Clear opportunities to learn and advance.",Positive,Growth
+553,"At times, Team morale is low in some departments.",Negative,Culture
+554,"Generally speaking, Great work culture with supportive teammates.",Positive,Culture
+555,"In my experience, Excellent collaboration across teams.",Positive,Culture
+556,"Compared with peers, Management style differs across departments.",Neutral,Management
+557,"From my team’s perspective, Some tools are modern while others are legacy.",Neutral,Technology
+558,"For the most part, The technology stack is a mix of old and new tools.",Neutral,Technology
+559,"At times, Some tools are modern while others are legacy.",Neutral,Technology
+560,"For the most part, Strong learning opportunities and skill growth.",Positive,Growth
+561,"Overall, Excellent collaboration across teams.",Positive,Culture
+562,"Compared with peers, Clear opportunities to learn and advance.",Positive,Growth
+563,"For the most part, Legacy systems make daily work harder.",Negative,Technology
+564,"In my experience, Work culture feels stressful and inconsistent.",Negative,Culture
+565,"In some cases, Excellent collaboration across teams.",Positive,Culture
+566,"In my experience, Learning is available, but mostly self-driven.",Neutral,Growth
+567,"In my experience, Management is approachable and supportive.",Positive,Management
+568,"Compared with peers, Legacy systems make daily work harder.",Negative,Technology
+569,"For the most part, Projects use modern cloud and automation tools.",Positive,Technology
+570,"In some cases, The technology stack is a mix of old and new tools.",Neutral,Technology
+571,"In my experience, Salary is below market expectations.",Negative,Salary
+572,"For the most part, Perks are minimal compared to other companies.",Negative,Perks
+573,"Compared with peers, Strong learning opportunities and skill growth.",Positive,Growth
+574,"From my team’s perspective, Some tools are modern while others are legacy.",Neutral,Technology
+575,"At times, Perks are standard and adequate.",Neutral,Perks
+576,"From my team’s perspective, Legacy systems make daily work harder.",Negative,Technology
+577,"In my experience, Helpful perks like flexible hours and leave.",Positive,Perks
+578,"For the most part, The technology stack is outdated and slow.",Negative,Technology
+579,"Compared with peers, Clear opportunities to learn and advance.",Positive,Growth
+580,"Overall, Learning is available, but mostly self-driven.",Neutral,Growth
+581,"In my experience, Salary is average for the industry.",Neutral,Salary
+582,"From my team’s perspective, Clear opportunities to learn and advance.",Positive,Growth
+583,"In some cases, Promotion paths are not well defined.",Negative,Growth
+584,"Generally speaking, Salary is below market expectations.",Negative,Salary
+585,"From my team’s perspective, Some tools are modern while others are legacy.",Neutral,Technology
+586,"Generally speaking, Perks are minimal compared to other companies.",Negative,Perks
+587,"From my team’s perspective, Good performance bonuses and benefits.",Positive,Salary
+588,"For the most part, Salary is below market expectations.",Negative,Salary
+589,"Generally speaking, Team morale is low in some departments.",Negative,Culture
+590,"For the most part, Clear opportunities to learn and advance.",Positive,Growth
+591,"Compared with peers, Management is approachable and supportive.",Positive,Management
+592,"Compared with peers, The technology stack is a mix of old and new tools.",Neutral,Technology
+593,"Compared with peers, Work culture feels stressful and inconsistent.",Negative,Culture
+594,"From my team’s perspective, Great work culture with supportive teammates.",Positive,Culture
+595,"In my experience, The technology stack is outdated and slow.",Negative,Technology
+596,"In some cases, Good performance bonuses and benefits.",Positive,Salary
+597,"Compared with peers, Modern technology stack and useful tools.",Positive,Technology
+598,"At times, Management style differs across departments.",Neutral,Management
+599,"Generally speaking, Work-life balance is fine most weeks.",Neutral,Culture
+600,"Generally speaking, Perks are minimal compared to other companies.",Negative,Perks
+601,"Generally speaking, Good performance bonuses and benefits.",Positive,Salary
+602,"Compared with peers, Growth opportunities depend on the project.",Neutral,Growth
+603,"Generally speaking, Helpful perks like flexible hours and leave.",Positive,Perks
+604,"From my team’s perspective, Team morale is low in some departments.",Negative,Culture
+605,"In some cases, Work culture feels stressful and inconsistent.",Negative,Culture
+606,"Compared with peers, Helpful perks like flexible hours and leave.",Positive,Perks
+607,"Overall, Management style differs across departments.",Neutral,Management
+608,"At times, Promotion paths are not well defined.",Negative,Growth
+609,"In my experience, Helpful perks like flexible hours and leave.",Positive,Perks
+610,"From my team’s perspective, Excellent collaboration across teams.",Positive,Culture
+611,"In my experience, Learning is available, but mostly self-driven.",Neutral,Growth
+612,"In some cases, Great work culture with supportive teammates.",Positive,Culture
+613,"Compared with peers, Management is approachable and supportive.",Positive,Management
+614,"In some cases, Growth opportunities depend on the project.",Neutral,Growth
+615,"Overall, Salary is below market expectations.",Negative,Salary
+616,"Generally speaking, Management is approachable and supportive.",Positive,Management
+617,"For the most part, The technology stack is outdated and slow.",Negative,Technology
+618,"Compared with peers, Clear opportunities to learn and advance.",Positive,Growth
+619,"From my team’s perspective, Clear opportunities to learn and advance.",Positive,Growth
+620,"Generally speaking, Legacy systems make daily work harder.",Negative,Technology
+621,"Generally speaking, Perks are standard and adequate.",Neutral,Perks
+622,"Compared with peers, Management style differs across departments.",Neutral,Management
+623,"From my team’s perspective, Raises are small and infrequent.",Negative,Salary
+624,"Generally speaking, Salary is average for the industry.",Neutral,Salary
+625,"At times, Clear opportunities to learn and advance.",Positive,Growth
+626,"Generally speaking, Learning is available, but mostly self-driven.",Neutral,Growth
+627,"In some cases, Clear opportunities to learn and advance.",Positive,Growth
+628,"Overall, Strong learning opportunities and skill growth.",Positive,Growth
+629,"At times, Work culture feels stressful and inconsistent.",Negative,Culture
+630,"In some cases, Management is approachable and supportive.",Positive,Management
+631,"In some cases, Strong learning opportunities and skill growth.",Positive,Growth
+632,"Generally speaking, Promotion paths are not well defined.",Negative,Growth
+633,"For the most part, Salary is average for the industry.",Neutral,Salary
+634,"Compared with peers, Legacy systems make daily work harder.",Negative,Technology
+635,"In some cases, Work-life balance is fine most weeks.",Neutral,Culture
+636,"Generally speaking, Modern technology stack and useful tools.",Positive,Technology
+637,"Compared with peers, Management style differs across departments.",Neutral,Management
+638,"Generally speaking, Perks are minimal compared to other companies.",Negative,Perks
+639,"From my team’s perspective, Strong learning opportunities and skill growth.",Positive,Growth
+640,"From my team’s perspective, Career growth is limited and unclear.",Negative,Growth
+641,"Generally speaking, Growth opportunities depend on the project.",Neutral,Growth
+642,"From my team’s perspective, Management is approachable and supportive.",Positive,Management
+643,"In some cases, Clear opportunities to learn and advance.",Positive,Growth
+644,"Compared with peers, Compensation is acceptable for the role.",Neutral,Salary
+645,"From my team’s perspective, The technology stack is a mix of old and new tools.",Neutral,Technology
+646,"Compared with peers, Great work culture with supportive teammates.",Positive,Culture
+647,"Generally speaking, Perks are standard and adequate.",Neutral,Perks
+648,"From my team’s perspective, Projects use modern cloud and automation tools.",Positive,Technology
+649,"For the most part, Perks are standard and adequate.",Neutral,Perks
+650,"At times, Clear opportunities to learn and advance.",Positive,Growth
+651,"At times, Projects use modern cloud and automation tools.",Positive,Technology
+652,"In my experience, Salary is below market expectations.",Negative,Salary
+653,"In my experience, Team morale is low in some departments.",Negative,Culture
+654,"Overall, The technology stack is outdated and slow.",Negative,Technology
+655,"In some cases, The technology stack is a mix of old and new tools.",Neutral,Technology
+656,"Generally speaking, Team morale is low in some departments.",Negative,Culture
+657,"Compared with peers, Perks are minimal compared to other companies.",Negative,Perks
+658,"In my experience, Salary is competitive and fair.",Positive,Salary
+659,"Overall, Career growth is limited and unclear.",Negative,Growth
+660,"In some cases, The technology stack is a mix of old and new tools.",Neutral,Technology
+661,"Overall, The technology stack is a mix of old and new tools.",Neutral,Technology
+662,"Generally speaking, Compensation is acceptable for the role.",Neutral,Salary
+663,"Overall, Helpful perks like flexible hours and leave.",Positive,Perks
+664,"In my experience, Clear opportunities to learn and advance.",Positive,Growth
+665,"From my team’s perspective, Management style differs across departments.",Neutral,Management
+666,"Generally speaking, Legacy systems make daily work harder.",Negative,Technology
+667,"Generally speaking, The technology stack is a mix of old and new tools.",Neutral,Technology
+668,"Compared with peers, Great work culture with supportive teammates.",Positive,Culture
+669,"From my team’s perspective, Excellent collaboration across teams.",Positive,Culture
+670,"Compared with peers, Salary is average for the industry.",Neutral,Salary
+671,"At times, Learning is available, but mostly self-driven.",Neutral,Growth
+672,"In some cases, Good performance bonuses and benefits.",Positive,Salary
+673,"In some cases, Work culture feels stressful and inconsistent.",Negative,Culture
+674,"For the most part, The technology stack is outdated and slow.",Negative,Technology
+675,"Overall, Career growth is limited and unclear.",Negative,Growth
+676,"Generally speaking, Strong learning opportunities and skill growth.",Positive,Growth
+677,"From my team’s perspective, Management style differs across departments.",Neutral,Management
+678,"Overall, Promotion paths are not well defined.",Negative,Growth
+679,"At times, Management is approachable and supportive.",Positive,Management
+680,"Generally speaking, Great work culture with supportive teammates.",Positive,Culture
+681,"From my team’s perspective, Good performance bonuses and benefits.",Positive,Salary
+682,"Compared with peers, Perks are minimal compared to other companies.",Negative,Perks
+683,"For the most part, Career growth is limited and unclear.",Negative,Growth
+684,"Compared with peers, Team morale is low in some departments.",Negative,Culture
+685,"Generally speaking, Legacy systems make daily work harder.",Negative,Technology
+686,"At times, Growth opportunities depend on the project.",Neutral,Growth
+687,"In my experience, Promotion paths are not well defined.",Negative,Growth
+688,"Compared with peers, Legacy systems make daily work harder.",Negative,Technology
+689,"In my experience, Clear opportunities to learn and advance.",Positive,Growth
+690,"At times, Projects use modern cloud and automation tools.",Positive,Technology
+691,"For the most part, The technology stack is outdated and slow.",Negative,Technology
+692,"Generally speaking, Projects use modern cloud and automation tools.",Positive,Technology
+693,"Generally speaking, Strong learning opportunities and skill growth.",Positive,Growth
+694,"Generally speaking, Projects use modern cloud and automation tools.",Positive,Technology
+695,"For the most part, Work-life balance is fine most weeks.",Neutral,Culture
+696,"Overall, Team morale is low in some departments.",Negative,Culture
+697,"Overall, Perks are minimal compared to other companies.",Negative,Perks
+698,"At times, Salary is competitive and fair.",Positive,Salary
+699,"In some cases, Salary is below market expectations.",Negative,Salary
+700,"Overall, Great work culture with supportive teammates.",Positive,Culture
+701,"Generally speaking, Work culture varies by team.",Neutral,Culture
+702,"For the most part, Good performance bonuses and benefits.",Positive,Salary
+703,"Compared with peers, Compensation is acceptable for the role.",Neutral,Salary
+704,"Generally speaking, Compensation is acceptable for the role.",Neutral,Salary
+705,"In some cases, Compensation is acceptable for the role.",Neutral,Salary
+706,"For the most part, Projects use modern cloud and automation tools.",Positive,Technology
+707,"In my experience, Management communication is weak.",Negative,Management
+708,"In some cases, Projects use modern cloud and automation tools.",Positive,Technology
+709,"Overall, Career growth is limited and unclear.",Negative,Growth
+710,"Generally speaking, Perks are standard and adequate.",Neutral,Perks
+711,"In some cases, Legacy systems make daily work harder.",Negative,Technology
+712,"At times, Career growth is limited and unclear.",Negative,Growth
+713,"From my team’s perspective, The technology stack is outdated and slow.",Negative,Technology
+714,"Overall, Great work culture with supportive teammates.",Positive,Culture
+715,"Overall, Compensation is acceptable for the role.",Neutral,Salary
+716,"In my experience, Great work culture with supportive teammates.",Positive,Culture
+717,"Overall, Team morale is low in some departments.",Negative,Culture
+718,"In some cases, Salary is competitive and fair.",Positive,Salary
+719,"At times, Legacy systems make daily work harder.",Negative,Technology
+720,"For the most part, Salary is average for the industry.",Neutral,Salary
+721,"At times, Perks are minimal compared to other companies.",Negative,Perks
+722,"Compared with peers, Learning is available, but mostly self-driven.",Neutral,Growth
+723,"At times, Management communication is weak.",Negative,Management
+724,"At times, Modern technology stack and useful tools.",Positive,Technology
+725,"Overall, Perks are minimal compared to other companies.",Negative,Perks
+726,"For the most part, Promotion paths are not well defined.",Negative,Growth
+727,"Generally speaking, Raises are small and infrequent.",Negative,Salary
+728,"In some cases, Management is approachable and supportive.",Positive,Management
+729,"In some cases, Management style differs across departments.",Neutral,Management
+730,"In some cases, Perks are minimal compared to other companies.",Negative,Perks
+731,"Generally speaking, Projects use modern cloud and automation tools.",Positive,Technology
+732,"From my team’s perspective, Strong learning opportunities and skill growth.",Positive,Growth
+733,"Generally speaking, The technology stack is a mix of old and new tools.",Neutral,Technology
+734,"In some cases, Some tools are modern while others are legacy.",Neutral,Technology
+735,"For the most part, Some tools are modern while others are legacy.",Neutral,Technology
+736,"At times, Helpful perks like flexible hours and leave.",Positive,Perks
+737,"Generally speaking, Great work culture with supportive teammates.",Positive,Culture
+738,"At times, Work culture varies by team.",Neutral,Culture
+739,"Overall, Good performance bonuses and benefits.",Positive,Salary
+740,"At times, Growth opportunities depend on the project.",Neutral,Growth
+741,"From my team’s perspective, Management communication is weak.",Negative,Management
+742,"At times, Salary is average for the industry.",Neutral,Salary
+743,"Generally speaking, Work culture varies by team.",Neutral,Culture
+744,"At times, Learning is available, but mostly self-driven.",Neutral,Growth
+745,"Compared with peers, Strong learning opportunities and skill growth.",Positive,Growth
+746,"Generally speaking, Compensation is acceptable for the role.",Neutral,Salary
+747,"From my team’s perspective, Management communication is weak.",Negative,Management
+748,"Generally speaking, Projects use modern cloud and automation tools.",Positive,Technology
+749,"Compared with peers, Team morale is low in some departments.",Negative,Culture
+750,"Compared with peers, Management style differs across departments.",Neutral,Management
+751,"At times, Promotion paths are not well defined.",Negative,Growth
+752,"From my team’s perspective, Salary is average for the industry.",Neutral,Salary
+753,"In some cases, Promotion paths are not well defined.",Negative,Growth
+754,"Compared with peers, Strong learning opportunities and skill growth.",Positive,Growth
+755,"At times, Clear opportunities to learn and advance.",Positive,Growth
+756,"From my team’s perspective, Management communication is weak.",Negative,Management
+757,"Generally speaking, Work-life balance is fine most weeks.",Neutral,Culture
+758,"For the most part, Management communication is weak.",Negative,Management
+759,"Generally speaking, Projects use modern cloud and automation tools.",Positive,Technology
+760,"Overall, Projects use modern cloud and automation tools.",Positive,Technology
+761,"Overall, Work culture feels stressful and inconsistent.",Negative,Culture
+762,"For the most part, Compensation is acceptable for the role.",Neutral,Salary
+763,"In my experience, Growth opportunities depend on the project.",Neutral,Growth
+764,"At times, Salary is average for the industry.",Neutral,Salary
+765,"Overall, Management communication is weak.",Negative,Management
+766,"Generally speaking, Promotion paths are not well defined.",Negative,Growth
+767,"Overall, Salary is below market expectations.",Negative,Salary
+768,"Overall, Raises are small and infrequent.",Negative,Salary
+769,"From my team’s perspective, Helpful perks like flexible hours and leave.",Positive,Perks
+770,"For the most part, Good performance bonuses and benefits.",Positive,Salary
+771,"For the most part, Great work culture with supportive teammates.",Positive,Culture
+772,"From my team’s perspective, Clear opportunities to learn and advance.",Positive,Growth
+773,"In some cases, Perks are standard and adequate.",Neutral,Perks
+774,"Generally speaking, Good performance bonuses and benefits.",Positive,Salary
+775,"From my team’s perspective, Career growth is limited and unclear.",Negative,Growth
+776,"Overall, Work culture feels stressful and inconsistent.",Negative,Culture
+777,"In some cases, Good performance bonuses and benefits.",Positive,Salary
+778,"Overall, Salary is below market expectations.",Negative,Salary
+779,"Generally speaking, Work culture varies by team.",Neutral,Culture
+780,"In my experience, Management style differs across departments.",Neutral,Management
+781,"At times, Salary is average for the industry.",Neutral,Salary
+782,"Generally speaking, Clear opportunities to learn and advance.",Positive,Growth
+783,"From my team’s perspective, Great work culture with supportive teammates.",Positive,Culture
+784,"Overall, Learning is available, but mostly self-driven.",Neutral,Growth
+785,"Overall, Management is approachable and supportive.",Positive,Management
+786,"For the most part, Learning is available, but mostly self-driven.",Neutral,Growth
+787,"In my experience, Compensation is acceptable for the role.",Neutral,Salary
+788,"At times, Clear opportunities to learn and advance.",Positive,Growth
+789,"Compared with peers, Raises are small and infrequent.",Negative,Salary
+790,"In my experience, Modern technology stack and useful tools.",Positive,Technology
+791,"Overall, Management communication is weak.",Negative,Management
+792,"In my experience, Strong learning opportunities and skill growth.",Positive,Growth
+793,"In some cases, Clear opportunities to learn and advance.",Positive,Growth
+794,"Overall, Management style differs across departments.",Neutral,Management
+795,"Generally speaking, Team morale is low in some departments.",Negative,Culture
+796,"In some cases, Projects use modern cloud and automation tools.",Positive,Technology
+797,"In some cases, Promotion paths are not well defined.",Negative,Growth
+798,"From my team’s perspective, Clear opportunities to learn and advance.",Positive,Growth
+799,"In my experience, Work culture varies by team.",Neutral,Culture
+800,"For the most part, Good performance bonuses and benefits.",Positive,Salary
+801,"Compared with peers, Management style differs across departments.",Neutral,Management
+802,"From my team’s perspective, Salary is competitive and fair.",Positive,Salary
+803,"In my experience, Perks are minimal compared to other companies.",Negative,Perks
+804,"In some cases, Modern technology stack and useful tools.",Positive,Technology
+805,"In some cases, Legacy systems make daily work harder.",Negative,Technology
+806,"Compared with peers, Great work culture with supportive teammates.",Positive,Culture
+807,"Compared with peers, Promotion paths are not well defined.",Negative,Growth
+808,"From my team’s perspective, Salary is average for the industry.",Neutral,Salary
+809,"At times, Work culture feels stressful and inconsistent.",Negative,Culture
+810,"In some cases, The technology stack is outdated and slow.",Negative,Technology
+811,"From my team’s perspective, Helpful perks like flexible hours and leave.",Positive,Perks
+812,"In my experience, Modern technology stack and useful tools.",Positive,Technology
+813,"In some cases, Helpful perks like flexible hours and leave.",Positive,Perks
+814,"Compared with peers, Great work culture with supportive teammates.",Positive,Culture
+815,"Generally speaking, Strong learning opportunities and skill growth.",Positive,Growth
+816,"Generally speaking, Career growth is limited and unclear.",Negative,Growth
+817,"Overall, Helpful perks like flexible hours and leave.",Positive,Perks
+818,"In some cases, Management style differs across departments.",Neutral,Management
+819,"Generally speaking, Management style differs across departments.",Neutral,Management
+820,"For the most part, Clear opportunities to learn and advance.",Positive,Growth
+821,"At times, Clear opportunities to learn and advance.",Positive,Growth
+822,"In some cases, The technology stack is outdated and slow.",Negative,Technology
+823,"Generally speaking, Perks are standard and adequate.",Neutral,Perks
+824,"Compared with peers, Growth opportunities depend on the project.",Neutral,Growth
+825,"Compared with peers, Good performance bonuses and benefits.",Positive,Salary
+826,"At times, Clear opportunities to learn and advance.",Positive,Growth
+827,"For the most part, Legacy systems make daily work harder.",Negative,Technology
+828,"Overall, Legacy systems make daily work harder.",Negative,Technology
+829,"At times, Work-life balance is fine most weeks.",Neutral,Culture
+830,"In my experience, Perks are minimal compared to other companies.",Negative,Perks
+831,"Generally speaking, Compensation is acceptable for the role.",Neutral,Salary
+832,"At times, Helpful perks like flexible hours and leave.",Positive,Perks
+833,"In some cases, Modern technology stack and useful tools.",Positive,Technology
+834,"Generally speaking, Work culture varies by team.",Neutral,Culture
+835,"In some cases, Work-life balance is fine most weeks.",Neutral,Culture
+836,"Overall, Raises are small and infrequent.",Negative,Salary
+837,"In my experience, Management style differs across departments.",Neutral,Management
+838,"Compared with peers, Strong learning opportunities and skill growth.",Positive,Growth
+839,"Overall, Clear opportunities to learn and advance.",Positive,Growth
+840,"Compared with peers, Raises are small and infrequent.",Negative,Salary
+841,"In my experience, Compensation is acceptable for the role.",Neutral,Salary
+842,"At times, Helpful perks like flexible hours and leave.",Positive,Perks
+843,"At times, Legacy systems make daily work harder.",Negative,Technology
+844,"Generally speaking, Raises are small and infrequent.",Negative,Salary
+845,"For the most part, Learning is available, but mostly self-driven.",Neutral,Growth
+846,"Generally speaking, Salary is competitive and fair.",Positive,Salary
+847,"In my experience, Good performance bonuses and benefits.",Positive,Salary
+848,"Compared with peers, Modern technology stack and useful tools.",Positive,Technology
+849,"At times, Excellent collaboration across teams.",Positive,Culture
+850,"Generally speaking, Management communication is weak.",Negative,Management
+851,"Compared with peers, Excellent collaboration across teams.",Positive,Culture
+852,"In my experience, Salary is competitive and fair.",Positive,Salary
+853,"In my experience, Management is approachable and supportive.",Positive,Management
+854,"At times, The technology stack is outdated and slow.",Negative,Technology
+855,"For the most part, Legacy systems make daily work harder.",Negative,Technology
+856,"Generally speaking, Good performance bonuses and benefits.",Positive,Salary
+857,"For the most part, Good performance bonuses and benefits.",Positive,Salary
+858,"In some cases, Good performance bonuses and benefits.",Positive,Salary
+859,"At times, Clear opportunities to learn and advance.",Positive,Growth
+860,"In some cases, Raises are small and infrequent.",Negative,Salary
+861,"At times, Strong learning opportunities and skill growth.",Positive,Growth
+862,"In my experience, Great work culture with supportive teammates.",Positive,Culture
+863,"For the most part, Some tools are modern while others are legacy.",Neutral,Technology
+864,"Generally speaking, Strong learning opportunities and skill growth.",Positive,Growth
+865,"Compared with peers, Excellent collaboration across teams.",Positive,Culture
+866,"In some cases, Promotion paths are not well defined.",Negative,Growth
+867,"Compared with peers, Management communication is weak.",Negative,Management
+868,"For the most part, Learning is available, but mostly self-driven.",Neutral,Growth
+869,"In my experience, Perks are standard and adequate.",Neutral,Perks
+870,"In my experience, Management communication is weak.",Negative,Management
+871,"For the most part, Great work culture with supportive teammates.",Positive,Culture
+872,"In some cases, Modern technology stack and useful tools.",Positive,Technology
+873,"In some cases, The technology stack is outdated and slow.",Negative,Technology
+874,"For the most part, Team morale is low in some departments.",Negative,Culture
+875,"From my team’s perspective, Team morale is low in some departments.",Negative,Culture
+876,"Generally speaking, Management is approachable and supportive.",Positive,Management
+877,"Overall, Management communication is weak.",Negative,Management
+878,"In some cases, Career growth is limited and unclear.",Negative,Growth
+879,"Generally speaking, Some tools are modern while others are legacy.",Neutral,Technology
+880,"In some cases, Team morale is low in some departments.",Negative,Culture
+881,"Generally speaking, Work-life balance is fine most weeks.",Neutral,Culture
+882,"Overall, Clear opportunities to learn and advance.",Positive,Growth
+883,"From my team’s perspective, Growth opportunities depend on the project.",Neutral,Growth
+884,"From my team’s perspective, Strong learning opportunities and skill growth.",Positive,Growth
+885,"Generally speaking, Excellent collaboration across teams.",Positive,Culture
+886,"In my experience, Work culture feels stressful and inconsistent.",Negative,Culture
+887,"Compared with peers, Projects use modern cloud and automation tools.",Positive,Technology
+888,"Generally speaking, Salary is below market expectations.",Negative,Salary
+889,"In my experience, Raises are small and infrequent.",Negative,Salary
+890,"From my team’s perspective, Growth opportunities depend on the project.",Neutral,Growth
+891,"Generally speaking, Salary is average for the industry.",Neutral,Salary
+892,"Generally speaking, Great work culture with supportive teammates.",Positive,Culture
+893,"At times, Work culture varies by team.",Neutral,Culture
+894,"Compared with peers, Clear opportunities to learn and advance.",Positive,Growth
+895,"In some cases, Learning is available, but mostly self-driven.",Neutral,Growth
+896,"At times, Modern technology stack and useful tools.",Positive,Technology
+897,"Compared with peers, Salary is average for the industry.",Neutral,Salary
+898,"For the most part, Promotion paths are not well defined.",Negative,Growth
+899,"From my team’s perspective, Helpful perks like flexible hours and leave.",Positive,Perks
+900,"In my experience, Legacy systems make daily work harder.",Negative,Technology
+901,"Overall, Good performance bonuses and benefits.",Positive,Salary
+902,"For the most part, The technology stack is a mix of old and new tools.",Neutral,Technology
+903,"At times, Management is approachable and supportive.",Positive,Management
+904,"Generally speaking, Compensation is acceptable for the role.",Neutral,Salary
+905,"In some cases, Helpful perks like flexible hours and leave.",Positive,Perks
+906,"In my experience, Great work culture with supportive teammates.",Positive,Culture
+907,"Compared with peers, Perks are minimal compared to other companies.",Negative,Perks
+908,"Compared with peers, Team morale is low in some departments.",Negative,Culture
+909,"Generally speaking, Work culture feels stressful and inconsistent.",Negative,Culture
+910,"In my experience, Management communication is weak.",Negative,Management
+911,"At times, Compensation is acceptable for the role.",Neutral,Salary
+912,"Generally speaking, Growth opportunities depend on the project.",Neutral,Growth
+913,"Compared with peers, Helpful perks like flexible hours and leave.",Positive,Perks
+914,"Generally speaking, The technology stack is outdated and slow.",Negative,Technology
+915,"Overall, Salary is average for the industry.",Neutral,Salary
+916,"Overall, Excellent collaboration across teams.",Positive,Culture
+917,"Generally speaking, Modern technology stack and useful tools.",Positive,Technology
+918,"At times, Raises are small and infrequent.",Negative,Salary
+919,"From my team’s perspective, The technology stack is a mix of old and new tools.",Neutral,Technology
+920,"In my experience, Helpful perks like flexible hours and leave.",Positive,Perks
+921,"In my experience, Perks are minimal compared to other companies.",Negative,Perks
+922,"Overall, Modern technology stack and useful tools.",Positive,Technology
+923,"At times, Helpful perks like flexible hours and leave.",Positive,Perks
+924,"In my experience, Work culture feels stressful and inconsistent.",Negative,Culture
+925,"In my experience, Excellent collaboration across teams.",Positive,Culture
+926,"Generally speaking, Strong learning opportunities and skill growth.",Positive,Growth
+927,"In my experience, Management is approachable and supportive.",Positive,Management
+928,"For the most part, Compensation is acceptable for the role.",Neutral,Salary
+929,"In some cases, Career growth is limited and unclear.",Negative,Growth
+930,"In my experience, Great work culture with supportive teammates.",Positive,Culture
+931,"For the most part, Helpful perks like flexible hours and leave.",Positive,Perks
+932,"For the most part, Modern technology stack and useful tools.",Positive,Technology
+933,"Overall, Clear opportunities to learn and advance.",Positive,Growth
+934,"Generally speaking, The technology stack is outdated and slow.",Negative,Technology
+935,"For the most part, Strong learning opportunities and skill growth.",Positive,Growth
+936,"Generally speaking, Learning is available, but mostly self-driven.",Neutral,Growth
+937,"In my experience, Work culture varies by team.",Neutral,Culture
+938,"In some cases, Great work culture with supportive teammates.",Positive,Culture
+939,"Compared with peers, Good performance bonuses and benefits.",Positive,Salary
+940,"From my team’s perspective, Growth opportunities depend on the project.",Neutral,Growth
+941,"From my team’s perspective, Career growth is limited and unclear.",Negative,Growth
+942,"From my team’s perspective, Salary is average for the industry.",Neutral,Salary
+943,"At times, Clear opportunities to learn and advance.",Positive,Growth
+944,"Overall, Perks are standard and adequate.",Neutral,Perks
+945,"Generally speaking, Growth opportunities depend on the project.",Neutral,Growth
+946,"Generally speaking, Strong learning opportunities and skill growth.",Positive,Growth
+947,"Overall, Work culture feels stressful and inconsistent.",Negative,Culture
+948,"For the most part, Management style differs across departments.",Neutral,Management
+949,"In some cases, Clear opportunities to learn and advance.",Positive,Growth
+950,"Generally speaking, Modern technology stack and useful tools.",Positive,Technology
+951,"Overall, Work culture varies by team.",Neutral,Culture
+952,"From my team’s perspective, Salary is below market expectations.",Negative,Salary
+953,"In some cases, Salary is competitive and fair.",Positive,Salary
+954,"In some cases, Legacy systems make daily work harder.",Negative,Technology
+955,"In my experience, Raises are small and infrequent.",Negative,Salary
+956,"For the most part, Legacy systems make daily work harder.",Negative,Technology
+957,"In my experience, Helpful perks like flexible hours and leave.",Positive,Perks
+958,"For the most part, Career growth is limited and unclear.",Negative,Growth
+959,"In my experience, Raises are small and infrequent.",Negative,Salary
+960,"At times, Good performance bonuses and benefits.",Positive,Salary
+961,"In some cases, Great work culture with supportive teammates.",Positive,Culture
+962,"Overall, Clear opportunities to learn and advance.",Positive,Growth
+963,"In my experience, Modern technology stack and useful tools.",Positive,Technology
+964,"Overall, Modern technology stack and useful tools.",Positive,Technology
+965,"From my team’s perspective, Management is approachable and supportive.",Positive,Management
+966,"From my team’s perspective, Modern technology stack and useful tools.",Positive,Technology
+967,"Overall, Work culture varies by team.",Neutral,Culture
+968,"From my team’s perspective, Good performance bonuses and benefits.",Positive,Salary
+969,"In my experience, Perks are minimal compared to other companies.",Negative,Perks
+970,"Compared with peers, Legacy systems make daily work harder.",Negative,Technology
+971,"For the most part, Clear opportunities to learn and advance.",Positive,Growth
+972,"In my experience, Helpful perks like flexible hours and leave.",Positive,Perks
+973,"At times, Work culture varies by team.",Neutral,Culture
+974,"Overall, Salary is average for the industry.",Neutral,Salary
+975,"At times, Salary is average for the industry.",Neutral,Salary
+976,"In some cases, Management is approachable and supportive.",Positive,Management
+977,"Overall, The technology stack is a mix of old and new tools.",Neutral,Technology
+978,"At times, Raises are small and infrequent.",Negative,Salary
+979,"Compared with peers, Good performance bonuses and benefits.",Positive,Salary
+980,"Compared with peers, Great work culture with supportive teammates.",Positive,Culture
+981,"For the most part, Salary is competitive and fair.",Positive,Salary
+982,"Overall, Projects use modern cloud and automation tools.",Positive,Technology
+983,"Generally speaking, Work culture varies by team.",Neutral,Culture
+984,"Compared with peers, Perks are standard and adequate.",Neutral,Perks
+985,"Overall, Excellent collaboration across teams.",Positive,Culture
+986,"From my team’s perspective, Helpful perks like flexible hours and leave.",Positive,Perks
+987,"Generally speaking, Growth opportunities depend on the project.",Neutral,Growth
+988,"At times, Excellent collaboration across teams.",Positive,Culture
+989,"At times, Some tools are modern while others are legacy.",Neutral,Technology
+990,"Overall, Good performance bonuses and benefits.",Positive,Salary
+991,"Overall, Management is approachable and supportive.",Positive,Management
+992,"In some cases, Salary is average for the industry.",Neutral,Salary
+993,"In my experience, Perks are standard and adequate.",Neutral,Perks
+994,"In some cases, Strong learning opportunities and skill growth.",Positive,Growth
+995,"For the most part, Salary is below market expectations.",Negative,Salary
+996,"Overall, Work culture varies by team.",Neutral,Culture
+997,"In some cases, Some tools are modern while others are legacy.",Neutral,Technology
+998,"Generally speaking, Management style differs across departments.",Neutral,Management
+999,"In my experience, Work culture varies by team.",Neutral,Culture
+1000,"In my experience, Raises are small and infrequent.",Negative,Salary
